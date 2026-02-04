@@ -132,4 +132,4 @@ This is the initial stable release. No migration required.
 
 ## Reporting Issues
 
-Report bugs and feature requests at: https://github.com/edgeo/drivers/bacnet/issues
+Report bugs and feature requests at: https://github.com/edgeo-scada/bacnet/issues

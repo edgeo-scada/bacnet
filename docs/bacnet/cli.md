@@ -5,7 +5,7 @@ The `edgeo-bacnet` command-line tool provides comprehensive BACnet/IP device int
 ## Installation
 
 ```bash
-go install github.com/edgeo/drivers/bacnet/cmd/edgeo-bacnet@latest
+go install github.com/edgeo-scada/bacnet/cmd/edgeo-bacnet@latest
 ```
 
 ## Global Flags

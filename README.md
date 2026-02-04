@@ -16,7 +16,7 @@ A pure Go BACnet/IP client library for building automation and control systems.
 ## Installation
 
 ```bash
-go get github.com/edgeo/drivers/bacnet
+go get github.com/edgeo-scada/bacnet
 ```
 
 ## Quick Start
@@ -32,7 +32,7 @@ import (
     "log"
     "time"
 
-    "github.com/edgeo/drivers/bacnet/bacnet"
+    "github.com/edgeo-scada/bacnet/bacnet"
 )
 
 func main() {
@@ -72,7 +72,7 @@ import (
     "log"
     "time"
 
-    "github.com/edgeo/drivers/bacnet/bacnet"
+    "github.com/edgeo-scada/bacnet/bacnet"
 )
 
 func main() {
@@ -112,7 +112,7 @@ import (
     "log"
     "time"
 
-    "github.com/edgeo/drivers/bacnet/bacnet"
+    "github.com/edgeo-scada/bacnet/bacnet"
 )
 
 func main() {

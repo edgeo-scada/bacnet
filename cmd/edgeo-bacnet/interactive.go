@@ -10,7 +10,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/edgeo/drivers/bacnet/bacnet"
+	"github.com/edgeo-scada/bacnet/bacnet"
 )
 
 var interactiveCmd = &cobra.Command{

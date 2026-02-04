@@ -11,7 +11,7 @@ This guide covers the basics of using the BACnet/IP driver for device communicat
 ## Installation
 
 ```bash
-go get github.com/edgeo/drivers/bacnet
+go get github.com/edgeo-scada/bacnet
 ```
 
 ## Basic Client Usage
@@ -26,7 +26,7 @@ import (
     "log"
     "time"
 
-    "github.com/edgeo/drivers/bacnet/bacnet"
+    "github.com/edgeo-scada/bacnet/bacnet"
 )
 
 func main() {
@@ -199,7 +199,7 @@ Use shorthand aliases for common properties:
 Install the CLI tool:
 
 ```bash
-go install github.com/edgeo/drivers/bacnet/cmd/edgeo-bacnet@latest
+go install github.com/edgeo-scada/bacnet/cmd/edgeo-bacnet@latest
 ```
 
 Basic commands:
