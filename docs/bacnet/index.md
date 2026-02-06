@@ -1,8 +1,14 @@
+---
+slug: /
+---
+
 # BACnet/IP Driver
 
-A comprehensive BACnet/IP client implementation for Go, designed for building automation and control systems.
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](./changelog)
+[![Go](https://img.shields.io/badge/go-1.21+-00ADD8.svg)](https://go.dev/)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/edgeo-scada/bacnet/blob/main/LICENSE)
 
-**Version:** 1.0.0
+A comprehensive BACnet/IP client implementation for Go, designed for building automation and control systems.
 
 ## Features
 
@@ -139,4 +145,4 @@ Common properties with shorthand aliases:
 
 ## License
 
-MIT License
+Apache License 2.0 - see [LICENSE](https://github.com/edgeo-scada/bacnet/blob/main/LICENSE) for details.
