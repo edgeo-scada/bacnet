@@ -1,4 +1,5 @@
 # Binaries
+/edgeo-bacnet
 bin/
 *.exe
 *.exe~
