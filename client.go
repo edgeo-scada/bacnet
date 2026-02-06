@@ -24,7 +24,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/edgeo-scada/bacnet/bacnet/internal/transport"
+	"github.com/edgeo-scada/bacnet/internal/transport"
 )
 
 // ConnectionState represents the client connection state

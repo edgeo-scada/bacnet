@@ -24,7 +24,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/edgeo-scada/bacnet/bacnet"
+	"github.com/edgeo-scada/bacnet"
 )
 
 var (

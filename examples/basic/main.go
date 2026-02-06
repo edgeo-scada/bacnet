@@ -21,7 +21,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/edgeo-scada/bacnet/bacnet"
+	"github.com/edgeo-scada/bacnet"
 )
 
 func main() {

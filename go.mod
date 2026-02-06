@@ -3,7 +3,6 @@ module github.com/edgeo-scada/bacnet
 go 1.23
 
 require (
-	github.com/edgeo-scada/bacnet/bacnet v0.0.0-00010101000000-000000000000
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
 )
@@ -30,5 +29,3 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/edgeo-scada/bacnet/bacnet => ./bacnet
